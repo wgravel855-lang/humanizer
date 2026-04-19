@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "next": "14.2.15",
+    "next": "14.2.35",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.454.0",
@@ -17,9 +17,9 @@
   },
   "devDependencies": {
     "eslint": "^8",
-    "eslint-config-next": "14.2.15"
+    "eslint-config-next": "14.2.35"
   },
   "engines": {
-    "node": ">=18.17.0"
+    "node": "20.x"
   }
 }
